@@ -10,8 +10,8 @@
 > 6.) Game Boundaries
 > 7.) Jumping Physics
 
-# Finish PYGAME MEGAMAN NES 1990s part 1 =======> Resume tomorrow
+# Finish PYGAME MEGAMAN NES 1990s part 1 --- 04.24.2025
 
-# PYGAME: MEGAMAN NES 1990s - 3rd Commit - 04.25.2025 
+# PYGAME: MEGAMAN NES 1990s - 3rd Commit - 04.29.2025 
 > 8.) Friction Physics
 > 9.) Platform Collision Physics
