@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="megaman_1.png" width="300"/>
+  <br>
+  <img src="megaman_2.png" width="300"/>
+</p>
+
+
+
 # PYGAME: MEGAMAN NES 1990s - 1st Commit - 04.24.2025
 > 1.) Install pygame using terminal <br>
 > 2.) Creating Game Window <br>
@@ -15,5 +23,5 @@
 # Finish PYGAME MEGAMAN NES 1990s part 1 --- 04.24.2025
 
 # PYGAME: MEGAMAN NES 1990s - 3rd Commit - 04.29.2025 
-> 8.) Friction Physics
-> 9.) Platform Collision Physics
+> 8.) Friction Physics <br>
+> 9.) Platform Collision Physics <br>
